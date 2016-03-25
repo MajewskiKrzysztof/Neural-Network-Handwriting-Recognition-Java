@@ -8,3 +8,8 @@ https://www.youtube.com/watch?v=vT1xNDjoTv0&feature=youtu.be
 SCREENSHOT:
 
 ![Alt text](/SCREENSHOTS/1.png "Screenshot1")
+
+
+INFO:
+
+Before using it in IntelliJ mark "resources" folder as resource directory
